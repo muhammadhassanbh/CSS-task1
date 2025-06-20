@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(235, 195, 231);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    font-size: x-large;
+    letter-spacing: 0.5px;
+}
+hr{
+    border: dotted;
+    width: 120%;
+}
